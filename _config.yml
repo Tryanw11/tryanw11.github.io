@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Economics Major at Fisk University in Nashville, TN.
   <br><br>
   Researching Cognitive Bias In Machine Learning 
-  <br><br>
+  <br><br><br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
