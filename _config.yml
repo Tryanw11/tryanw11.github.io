@@ -1,10 +1,10 @@
 title: Taylor Wilson # your name (or website title) here
 logo: "/images/TAYLOR.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Economics Major at Fisk University in Nashville, TN.
+  Economics Major at Fisk University in Nashville, TN. Researching Cognitive Bias in Machine Learning
   <br><br>
-  Researching Cognitive Bias In Machine Learning 
-  <br><br><br><br>
+ 
+  <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
